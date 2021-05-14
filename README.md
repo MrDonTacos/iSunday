@@ -1,7 +1,7 @@
 # Speech Recognition Discord Bot
 
 ### English - Like 60% maybe
-In order to use this bot you should have an google account for create a DialogFlow agent and a Youtube API V3
+In order to use this bot you should have an google account to create a DialogFlow agent and a Youtube API V3
 1. Create a DialogFlow Acoount
 2. Create an DialogFlow Agent
 3. Create an service account
