@@ -1,3 +1,2 @@
-*IMPORTANTE*
+# Speech Recognition Discord Bot
 
-# BOT para listas colaborativas
