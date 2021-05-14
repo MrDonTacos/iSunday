@@ -12,7 +12,7 @@ In order to use this bot you should have an google account for create a DialogFl
 8. Do the step inside 'Setting the environment variable' section https://cloud.google.com/docs/authentication/getting-started
 
 
-### Español - Lengua originaria
+### Español - Lengua principal
 En orden para poder usar este bot se ocupan seguir los siguientes pasos
 
 1. Crear cuenta en Dialogflow
